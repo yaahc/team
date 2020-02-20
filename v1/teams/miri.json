@@ -1,0 +1,29 @@
+{
+  "name": "miri",
+  "kind": "team",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Oliver Scherer",
+      "github": "oli-obk",
+      "github_id": 332036,
+      "is_lead": true
+    },
+    {
+      "name": "Ralf Jung",
+      "github": "RalfJung",
+      "github_id": 330628,
+      "is_lead": true
+    }
+  ],
+  "github": null,
+  "website_data": {
+    "name": "Miri",
+    "description": "design and implementation of the Miri interpreter",
+    "page": "miri",
+    "email": null,
+    "repo": "https://github.com/rust-lang/miri",
+    "discord": null,
+    "weight": 0
+  }
+}
